@@ -1,0 +1,12 @@
+node_modules
+.next
+.husky
+package.json
+yalc.lock
+yarn-error.log
+jsconfig.json
+.eslintrc.js
+.eslintignore
+.prettierrc
+.env
+.env.example
